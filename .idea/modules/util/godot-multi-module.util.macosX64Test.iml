@@ -5,8 +5,8 @@
       <configuration version="3" platform="Native " allPlatforms="Native []" useProjectSettings="false" isTestModule="true" externalProjectId=":util">
         <dependsOnModuleNames>:util:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>godot-multi-module.util.macosX64Main</sourceSet>
           <sourceSet>godot-multi-module.util.commonTest</sourceSet>
+          <sourceSet>godot-multi-module.util.macosX64Main</sourceSet>
           <sourceSet>godot-multi-module.util.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
